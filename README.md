@@ -6,7 +6,7 @@
 
 - 📚 I’m currently in last year at <a href="https://www.esiea.fr/en/" target="blank">ESIEA</a> and specialized in Virtual Reality and Immersive Systems.
 
-- 🔭 I'm passionate about virtual reality and all the possibilities it offers 
+- 🔭 I'm passionate about virtual reality and game development 
 
 - ✈️ I dream of traveling the world and working abroad
 
