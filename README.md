@@ -12,7 +12,7 @@
 
 Here is my portfolio <a href="tlefeuvre.github.io" target="blank">tlefeuvre.github.io</a>
 
-You can reach me at *tlefeuvre@et.esiea.fr** or on LinkedIn at <a href="linkedin.com/in/théo-lefeuvre" target="blank">in/théo-lefeuvre</a>
+You can reach me at *tlefeuvre@et.esiea.fr* or on LinkedIn at <a href="linkedin.com/in/théo-lefeuvre" target="blank">in/théo-lefeuvre</a>
 <!--
 **tlefeuvre/tlefeuvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
