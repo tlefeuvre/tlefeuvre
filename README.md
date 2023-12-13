@@ -4,7 +4,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/BFYqjGAbpD9ObnCjex/giphy.gif">
 </a>
 
-- 📚 I’m currently in last year at <a href="https://www.esiea.fr/en/" target="blank">ESIEA</a> and specialized in Virtual Reality and Immersive Systems.
+- 📚 I’m currently a fifth year student at Arts et Métiers and graduated from ESIEA, an engineering school in computer science.
 
 - 🔭 I'm passionate about virtual reality and game development 
 
@@ -12,7 +12,7 @@
 
 Here is my portfolio <a href="tlefeuvre.github.io" target="blank">tlefeuvre.github.io</a>
 
-You can reach me at *tlefeuvre@et.esiea.fr* or on LinkedIn at <a href="linkedin.com/in/théo-lefeuvre" target="blank">in/théo-lefeuvre</a>
+You can reach me at *theo.lefeuvre@ensam.eu* or on LinkedIn at <a href="linkedin.com/in/théo-lefeuvre" target="blank">in/théo-lefeuvre</a>
 <!--
 **tlefeuvre/tlefeuvre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
